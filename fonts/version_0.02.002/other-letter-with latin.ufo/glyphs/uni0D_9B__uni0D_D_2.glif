@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0D9B_uni0DD2" format="1">
+  <advance width="1402"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive95"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive95"/>
+    </contour>
+    <component base="uni0D9A" xOffset="43"/>
+    <component base="uni0DD2" xOffset="1341" yOffset="31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

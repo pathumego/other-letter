@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0DAB" format="1">
+  <advance width="1066"/>
+  <unicode hex="0DAB"/>
+  <outline>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive17"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive17"/>
+    </contour>
+    <component base="uni0DB1" xOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

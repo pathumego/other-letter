@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0DDD.pstf" format="1">
+  <advance width="414"/>
+  <outline>
+    <component base="uni0DCF" xOffset="-15"/>
+    <component base="uni0DCA" xOffset="343" yOffset="57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

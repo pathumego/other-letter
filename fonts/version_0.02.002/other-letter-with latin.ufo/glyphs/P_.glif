@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="638"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="82" y="727" type="line"/>
+      <point x="387" y="727" type="line"/>
+      <point x="436" y="727"/>
+      <point x="519" y="686"/>
+      <point x="579" y="620"/>
+      <point x="612" y="535"/>
+      <point x="612" y="490" type="qcurve"/>
+      <point x="612" y="444"/>
+      <point x="581" y="359"/>
+      <point x="523" y="293"/>
+      <point x="442" y="253"/>
+      <point x="393" y="253" type="qcurve"/>
+      <point x="197" y="253" type="line"/>
+      <point x="197" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="354" type="line"/>
+      <point x="386" y="354" type="line"/>
+      <point x="411" y="354"/>
+      <point x="451" y="375"/>
+      <point x="479" y="412"/>
+      <point x="496" y="461"/>
+      <point x="496" y="490" type="qcurve"/>
+      <point x="496" y="521"/>
+      <point x="477" y="570"/>
+      <point x="444" y="606"/>
+      <point x="402" y="626"/>
+      <point x="380" y="626" type="qcurve"/>
+      <point x="197" y="626" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>253</integer>
+            <integer>101</integer>
+          </array>
+          <array>
+            <integer>626</integer>
+            <integer>101</integer>
+          </array>
+          <array>
+            <integer>22</integer>
+            <integer>-21</integer>
+          </array>
+        </array>
+        <key>vHints</key>
+        <array>
+          <array>
+            <integer>82</integer>
+            <integer>115</integer>
+          </array>
+          <array>
+            <integer>496</integer>
+            <integer>116</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

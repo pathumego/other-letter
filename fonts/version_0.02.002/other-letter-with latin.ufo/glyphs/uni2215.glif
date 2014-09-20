@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2215" format="1">
+  <advance width="623"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="-12" y="48" type="line"/>
+      <point x="570" y="733" type="line"/>
+      <point x="636" y="679" type="line"/>
+      <point x="53" y="-6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>15</integer>
+            <integer>-21</integer>
+          </array>
+          <array>
+            <integer>733</integer>
+            <integer>-20</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

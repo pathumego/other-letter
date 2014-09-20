@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="451"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="172" y="-133" type="line"/>
+      <point x="172" y="226" type="line"/>
+      <point x="37" y="226" type="line"/>
+      <point x="37" y="329" type="line"/>
+      <point x="172" y="329" type="line"/>
+      <point x="172" y="794" type="line"/>
+      <point x="280" y="794" type="line"/>
+      <point x="280" y="329" type="line"/>
+      <point x="414" y="329" type="line"/>
+      <point x="414" y="226" type="line"/>
+      <point x="280" y="226" type="line"/>
+      <point x="280" y="-133" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>226</integer>
+            <integer>103</integer>
+          </array>
+          <array>
+            <integer>-112</integer>
+            <integer>-21</integer>
+          </array>
+          <array>
+            <integer>794</integer>
+            <integer>-20</integer>
+          </array>
+        </array>
+        <key>vHints</key>
+        <array>
+          <array>
+            <integer>172</integer>
+            <integer>108</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

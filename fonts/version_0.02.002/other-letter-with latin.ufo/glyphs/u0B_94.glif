@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0B94" format="1">
+  <advance width="1649"/>
+  <unicode hex="0B94"/>
+  <outline>
+    <contour>
+      <point x="879" y="514" type="move" name="mark0"/>
+    </contour>
+    <component base="uni0D94"/>
+    <component base="uni0DDF" xOffset="898"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

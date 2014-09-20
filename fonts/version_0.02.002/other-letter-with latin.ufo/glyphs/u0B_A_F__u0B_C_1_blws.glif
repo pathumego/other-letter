@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0BAF_u0BC1.blws" format="1">
+  <advance width="878"/>
+  <outline>
+    <contour>
+      <point x="86" y="135" type="qcurve"/>
+      <point x="86" y="492" type="line"/>
+      <point x="148" y="492" type="line"/>
+      <point x="148" y="135" type="line"/>
+      <point x="148" y="94"/>
+      <point x="183" y="37"/>
+      <point x="209" y="37" type="qcurve"/>
+      <point x="250" y="37"/>
+      <point x="307" y="102"/>
+      <point x="307" y="148" type="qcurve"/>
+      <point x="307" y="492" type="line"/>
+      <point x="369" y="492" type="line"/>
+      <point x="369" y="49" type="line"/>
+      <point x="725" y="49" type="line"/>
+      <point x="725" y="492" type="line"/>
+      <point x="787" y="492" type="line"/>
+      <point x="787" y="-246" type="line"/>
+      <point x="725" y="-246" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="307" y="0" type="line"/>
+      <point x="307" y="49" type="line"/>
+      <point x="291" y="21"/>
+      <point x="238" y="-12"/>
+      <point x="209" y="-12" type="qcurve"/>
+      <point x="159" y="-12"/>
+      <point x="86" y="74"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

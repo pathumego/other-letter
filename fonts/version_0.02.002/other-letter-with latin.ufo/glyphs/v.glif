@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="556"/>
+  <unicode hex="0076"/>
+  <outline>
+    <contour>
+      <point x="218" y="0" type="line"/>
+      <point x="13" y="536" type="line"/>
+      <point x="129" y="536" type="line"/>
+      <point x="283" y="95" type="line"/>
+      <point x="437" y="536" type="line"/>
+      <point x="544" y="536" type="line"/>
+      <point x="339" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>22</integer>
+            <integer>-21</integer>
+          </array>
+          <array>
+            <integer>536</integer>
+            <integer>-20</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

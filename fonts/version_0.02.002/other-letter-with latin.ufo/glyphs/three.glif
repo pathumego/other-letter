@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="562"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="378" y="242" type="qcurve"/>
+      <point x="410" y="236"/>
+      <point x="463" y="204"/>
+      <point x="500" y="157"/>
+      <point x="520" y="95"/>
+      <point x="520" y="59" type="qcurve"/>
+      <point x="520" y="11"/>
+      <point x="484" y="-66"/>
+      <point x="418" y="-121"/>
+      <point x="324" y="-151"/>
+      <point x="265" y="-151" type="qcurve"/>
+      <point x="187" y="-151"/>
+      <point x="69" y="-96"/>
+      <point x="33" y="-45" type="qcurve"/>
+      <point x="101" y="33" type="line"/>
+      <point x="126" y="-5"/>
+      <point x="204" y="-48"/>
+      <point x="263" y="-48" type="qcurve"/>
+      <point x="331" y="-48"/>
+      <point x="403" y="9"/>
+      <point x="403" y="67" type="qcurve"/>
+      <point x="403" y="126"/>
+      <point x="322" y="194"/>
+      <point x="242" y="194" type="qcurve"/>
+      <point x="214" y="194" type="line"/>
+      <point x="214" y="282" type="line"/>
+      <point x="245" y="282" type="line"/>
+      <point x="313" y="282"/>
+      <point x="387" y="346"/>
+      <point x="387" y="395" type="qcurve"/>
+      <point x="387" y="444"/>
+      <point x="322" y="490"/>
+      <point x="269" y="490" type="qcurve"/>
+      <point x="217" y="490"/>
+      <point x="137" y="445"/>
+      <point x="114" y="403" type="qcurve"/>
+      <point x="43" y="480" type="line"/>
+      <point x="57" y="505"/>
+      <point x="106" y="545"/>
+      <point x="169" y="574"/>
+      <point x="242" y="590"/>
+      <point x="281" y="590" type="qcurve"/>
+      <point x="331" y="590"/>
+      <point x="414" y="563"/>
+      <point x="474" y="516"/>
+      <point x="507" y="449"/>
+      <point x="507" y="408" type="qcurve"/>
+      <point x="507" y="377"/>
+      <point x="488" y="322"/>
+      <point x="455" y="276"/>
+      <point x="408" y="247"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>-151</integer>
+            <integer>103</integer>
+          </array>
+          <array>
+            <integer>194</integer>
+            <integer>88</integer>
+          </array>
+          <array>
+            <integer>490</integer>
+            <integer>100</integer>
+          </array>
+        </array>
+        <key>replaceTable</key>
+        <array>
+          <dict>
+            <key>index</key>
+            <integer>0</integer>
+            <key>type</key>
+            <integer>2</integer>
+          </dict>
+          <dict>
+            <key>index</key>
+            <integer>2</integer>
+            <key>type</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>index</key>
+            <integer>1</integer>
+            <key>type</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>index</key>
+            <integer>0</integer>
+            <key>type</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>index</key>
+            <integer>20</integer>
+            <key>type</key>
+            <integer>255</integer>
+          </dict>
+          <dict>
+            <key>index</key>
+            <integer>2</integer>
+            <key>type</key>
+            <integer>2</integer>
+          </dict>
+          <dict>
+            <key>index</key>
+            <integer>0</integer>
+            <key>type</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>index</key>
+            <integer>1</integer>
+            <key>type</key>
+            <integer>1</integer>
+          </dict>
+          <dict>
+            <key>index</key>
+            <integer>2</integer>
+            <key>type</key>
+            <integer>1</integer>
+          </dict>
+        </array>
+        <key>vHints</key>
+        <array>
+          <array>
+            <integer>387</integer>
+            <integer>120</integer>
+          </array>
+          <array>
+            <integer>403</integer>
+            <integer>104</integer>
+          </array>
+          <array>
+            <integer>403</integer>
+            <integer>117</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

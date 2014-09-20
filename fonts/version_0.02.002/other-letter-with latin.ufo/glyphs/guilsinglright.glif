@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="365"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="326" y="234" type="line"/>
+      <point x="61" y="55" type="line"/>
+      <point x="61" y="147" type="line"/>
+      <point x="236" y="265" type="line"/>
+      <point x="61" y="387" type="line"/>
+      <point x="61" y="480" type="line"/>
+      <point x="326" y="291" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>480</integer>
+            <integer>-20</integer>
+          </array>
+          <array>
+            <integer>77</integer>
+            <integer>-21</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

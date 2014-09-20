@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0DC0_uni0DCA" format="1">
+  <advance width="1061"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="cursive81"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_cursive81"/>
+    </contour>
+    <component base="uni0DC0"/>
+    <component base="uni0DCA" xOffset="928" yOffset="175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

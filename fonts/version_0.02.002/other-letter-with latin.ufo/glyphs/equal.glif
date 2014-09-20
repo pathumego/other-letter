@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="1">
+  <advance width="449"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="66" y="166" type="line"/>
+      <point x="66" y="241" type="line"/>
+      <point x="382" y="241" type="line"/>
+      <point x="382" y="166" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="325" type="line"/>
+      <point x="66" y="399" type="line"/>
+      <point x="382" y="399" type="line"/>
+      <point x="382" y="325" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>166</integer>
+            <integer>75</integer>
+          </array>
+          <array>
+            <integer>325</integer>
+            <integer>74</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

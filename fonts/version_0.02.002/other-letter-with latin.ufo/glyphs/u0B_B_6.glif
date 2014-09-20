@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0BB6" format="1">
+  <advance width="1126"/>
+  <unicode hex="0BB6"/>
+  <outline>
+    <contour>
+      <point x="516" y="498" type="move" name="mark0"/>
+    </contour>
+    <component base="uni0DC1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

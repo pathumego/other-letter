@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="691"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="346" y="725" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="621" y="4" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="296" y="727" type="line"/>
+      <point x="396" y="727" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="485" y="198" type="line"/>
+      <point x="205" y="198" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="7" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="463" y="283" type="line"/>
+      <point x="346" y="595" type="line"/>
+      <point x="225" y="283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>198</integer>
+            <integer>85</integer>
+          </array>
+          <array>
+            <integer>22</integer>
+            <integer>-21</integer>
+          </array>
+          <array>
+            <integer>727</integer>
+            <integer>-20</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="263"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="131" y="536" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="41" y="673" type="qcurve"/>
+      <point x="41" y="709"/>
+      <point x="91" y="748"/>
+      <point x="131" y="748" type="qcurve"/>
+      <point x="172" y="748"/>
+      <point x="222" y="709"/>
+      <point x="222" y="673" type="qcurve"/>
+      <point x="222" y="638"/>
+      <point x="172" y="598"/>
+      <point x="131" y="598" type="qcurve"/>
+      <point x="91" y="598"/>
+      <point x="41" y="638"/>
+    </contour>
+    <contour>
+      <point x="131" y="711" type="qcurve"/>
+      <point x="114" y="711"/>
+      <point x="90" y="690"/>
+      <point x="90" y="673" type="qcurve"/>
+      <point x="90" y="657"/>
+      <point x="114" y="635"/>
+      <point x="131" y="635" type="qcurve"/>
+      <point x="148" y="635"/>
+      <point x="173" y="656"/>
+      <point x="173" y="673" type="qcurve"/>
+      <point x="173" y="690"/>
+      <point x="148" y="711"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>598</integer>
+            <integer>37</integer>
+          </array>
+          <array>
+            <integer>711</integer>
+            <integer>37</integer>
+          </array>
+        </array>
+        <key>vHints</key>
+        <array>
+          <array>
+            <integer>41</integer>
+            <integer>49</integer>
+          </array>
+          <array>
+            <integer>173</integer>
+            <integer>49</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

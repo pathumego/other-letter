@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="421"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="210" y="536" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="59" y="659" type="line"/>
+      <point x="59" y="731" type="line"/>
+      <point x="362" y="731" type="line"/>
+      <point x="362" y="659" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>659</integer>
+            <integer>72</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

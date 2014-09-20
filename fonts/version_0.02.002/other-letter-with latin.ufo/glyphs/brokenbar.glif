@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="264"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="180" y="275" type="line"/>
+      <point x="180" y="-133" type="line"/>
+      <point x="84" y="-133" type="line"/>
+      <point x="84" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="794" type="line"/>
+      <point x="180" y="385" type="line"/>
+      <point x="84" y="385" type="line"/>
+      <point x="84" y="794" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>-112</integer>
+            <integer>-21</integer>
+          </array>
+          <array>
+            <integer>794</integer>
+            <integer>-20</integer>
+          </array>
+        </array>
+        <key>vHints</key>
+        <array>
+          <array>
+            <integer>84</integer>
+            <integer>96</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

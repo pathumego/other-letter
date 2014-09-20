@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="1">
+  <advance width="626"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="119" type="line"/>
+      <point x="31" y="119" type="line"/>
+      <point x="31" y="200" type="line"/>
+      <point x="119" y="200" type="line"/>
+      <point x="119" y="727" type="line"/>
+      <point x="603" y="727" type="line"/>
+      <point x="603" y="626" type="line"/>
+      <point x="234" y="626" type="line"/>
+      <point x="234" y="409" type="line"/>
+      <point x="543" y="409" type="line"/>
+      <point x="543" y="313" type="line"/>
+      <point x="234" y="313" type="line"/>
+      <point x="234" y="200" type="line"/>
+      <point x="352" y="200" type="line"/>
+      <point x="352" y="119" type="line"/>
+      <point x="234" y="119" type="line"/>
+      <point x="234" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>80</integer>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+        <key>hHints</key>
+        <array>
+          <array>
+            <integer>119</integer>
+            <integer>81</integer>
+          </array>
+          <array>
+            <integer>313</integer>
+            <integer>96</integer>
+          </array>
+          <array>
+            <integer>626</integer>
+            <integer>101</integer>
+          </array>
+          <array>
+            <integer>22</integer>
+            <integer>-21</integer>
+          </array>
+        </array>
+        <key>vHints</key>
+        <array>
+          <array>
+            <integer>119</integer>
+            <integer>115</integer>
+          </array>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
