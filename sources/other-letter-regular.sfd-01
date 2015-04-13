@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: Amma
-FullName: Amma
-FamilyName: Amma
+FontName: OtherLetter
+FullName: Other Letter
+FamilyName: OtherLetter
 Weight: Regular
-Copyright: Copyright (c) 2013 Pathum Egodawatta, .Copyright (c) 2014 moonaik <http://moonaik.com> Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
-Version: 0.01
+Copyright: Copyright (c) 2013 Pathum Egodawatta, .Copyright (c) 2014 moonaik <http://moonaik.com> \n\n Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
+Version: 0.1
 ItalicAngle: 0
 UnderlinePosition: -368
 UnderlineWidth: 24
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1316601550
-ModificationTime: 1428938687
+ModificationTime: 1426970721
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,6 +51,8 @@ OS2SupXOff: 0
 OS2SupYOff: 615
 OS2StrikeYSize: 61
 OS2StrikeYPos: 307
+OS2CapHeight: 0
+OS2XHeight: 0
 OS2Vendor: 'ACE '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80108003.00002042.00000000.00000000
@@ -739,14 +741,14 @@ ShortTable: maxp 16
   4
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 2.5.0"
+LangName: 1033 "" "" "Regular" "" "" "Version 2.5.0"
 Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 348 29 13
+WinInfo: 232 29 14
 BeginPrivate: 0
 EndPrivate
 BeginChars: 718 718
@@ -846,6 +848,7 @@ Flags: HW
 LayerCount: 2
 Back
 Fore
+Kerns2: 361 -16 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 96 -28 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 94 -29 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 93 -28 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 64 -37 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 63 -11 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 62 -36 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 61 -35 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 59 -31 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 49 -28 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 40 -32 "'kern' Horizontal Kerning in Tamil lookup 0 subtable" 14 -17 "'kern' Horizontal Kerning in Tamil lookup 0 subtable"
 EndChar
 
 StartChar: exclam
